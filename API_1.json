@@ -1,0 +1,22 @@
+{
+   "orderID": 0009567,
+   "AdressID": "Corrientes 1245",
+   "Status": "Listo",
+   "Articles": [
+
+     {
+        "Name":"Tornillos",
+        "Price": 2556,
+        "Quantity": 350,
+        "Dangerous": false
+
+     },
+     {
+        "Name":"Tuercas",
+        "Price": 1500,
+        "Quantity": 350,
+        "Dangerous": true
+     }
+    ]
+
+}
